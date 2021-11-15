@@ -1,0 +1,11 @@
+This project is tested on Mozilla Firefox.
+
+PHP,JS,Bootstrap and JQuery is used to create this page.
+
+User can select items from left side of the page and if clicks the image of item
+a new modal window opens up and we provide quantity.After we close this modal
+window item is added to the table.
+
+User can print invoice that just prints the bought items.
+
+Thanks for reading . 
